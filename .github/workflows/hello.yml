@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: echo 'hello cloud engineers! Have an awesome day!' I cant wait to have a vacation. Here is another hello from auto scaling branch
+      - run: echo 'hello cloud engineers! Have an awesome day!' I cant wait to have a vacation. Here is another hello from auto scaling branch. version 2
