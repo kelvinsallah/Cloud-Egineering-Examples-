@@ -3,7 +3,7 @@
 #below under terraform in organization i spelled it wrong onmy terraform so i am spelling it How I spelled it on terraform i spellig it 'egineers' this was done on purpose to show trouble shooting
 terraform {
   cloud {
-    organization = "go-cloud-engineers"
+    organization = "go-cloud-egineers"
 
     workspaces {
       name = "github-aws-auto-scaling-web-app"
