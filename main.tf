@@ -1,4 +1,4 @@
-# based off TF docs example: https://github.com/hashicorp/learn-terraform-aws-asg
+# Based off TF docs example: https://github.com/hashicorp/learn-terraform-aws-asg
 # uses Ubuntu Jammy as EC2 AMI
 #Below under terraform in organization i spelled it wrong onmy terraform so i am spelling it How I spelled it on terraform i spellig it 'egineers' this was done on purpose to show trouble shooting
 
